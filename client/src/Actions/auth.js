@@ -1,0 +1,11 @@
+export const AUTH_ACTION = {
+    LOGIN: 'AUTH_LOGIN',
+    LOGOUT: 'AUTH_LOGOUT',
+};
+
+export const TODOS_ACTION = {
+    USER_TODOS: 'USER_TODOS',
+    FAV_TOGGLE:'FAV_TOGGLE',
+    TODO_COMPLETE: 'TODO_COMPLETE',
+    TODO_DELETE: 'TODO_DELETE'
+};
